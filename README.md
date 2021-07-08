@@ -1,4 +1,4 @@
-# chat-app
+# Anony-chat
 A real-time chat application using node js and socket.io
 
 # Setup:
